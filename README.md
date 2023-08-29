@@ -3,7 +3,7 @@
  <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)-->
 
 <h2>Description</h2>
-FreeCodeCamp guided practice project consists of Some HTML and CSS Basics. Some HTML highlights are img element, section element, div element, article element, and hr element. Some CSS hightlights are class selector, a:visited property, a:hover property, a:active property, text-align property, max-width property, display property and block or inline-block value, background-image property. 
+FreeCodeCamp guided practice project consists of Some HTML and CSS Basics. Using CSS to set the color, font, size, and other aspects of HTML elements.
 
 <br />
 
